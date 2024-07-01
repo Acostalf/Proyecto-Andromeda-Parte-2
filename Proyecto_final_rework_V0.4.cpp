@@ -11,7 +11,9 @@
 //-----------------------//
 
 // Proyecto finalizado:
-// Falta por terminar funciones del combate...
+// Durante estas ultimas semanas del semestre ha sido muy complicado trabajar en el codigo, ademas que tuvimos que reconstruirlo, se presentaron problemas familiares y otros incovenientes
+// Eso causo muchos problemas de tiempo y desarrollo del codigo en terminos generales
+// Debido a esto falta por terminar funciones del combate, el martes probablemente podremos terminar lo que falte, espero pueda entender profesor, disculpe las molestias...
 
 #include <iostream>
 #include <vector>
